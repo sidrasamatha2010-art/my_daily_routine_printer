@@ -6,11 +6,6 @@ print("I wake up at 8:00 AM.")
 #Step 2:Eating breakfast
 print("I eat breakfast")
 
-#Step 3:Watching TV
-print("I watch TV")
-
-#Step 4:Playing jigsaw puzzle
-print("I play jigsaw puzzle")
 
 #Step 5:Playing football with my friends
 print("I play football with my friends")
